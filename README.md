@@ -10,50 +10,6 @@ The analysis covers 2020–2024 and forms part of a broader portfolio exploring 
 
 An interactive Tableau dashboard was created to visualize the key outcomes of the analysis:
 
-The link on tableau public: 
 https://public.tableau.com/app/profile/emil.safarov/viz/HealthcareAccessinU_S_/HealthcareAccessinU_S?publish=yes
 
-## 📄 Case Study
-
-The full project analysis and narrative is documented in the following case study PDF:
-
-🔗 [EmilSafarov_HealthcareAccess_CaseStudy.pdf](./case_study/EmilSafarov_HealthcareAccess_CaseStudy.pdf)
-
-This case study walks through the end-to-end process, including:
-- Research motivation and problem definition
-- Data selection and preprocessing
-- Composite score development
-- Modeling approach (regression & clustering)
-- Visual insights and final conclusions
-
-> 📍 Located in the `/case_study/` folder
-
-
-
-├── EmilSafarov_HealthcareAccess_CaseStudy.pdf #case explanation
-├── LICENSE
-├── README.md
-├── data
-│   ├── final #inputdatasets
-│   ├── notes #data processing notes
-│   ├── processed
-│   └── raw
-├── project_docs
-│   ├── Healthcare Access in U.S..twbx  #tableau workbook
-│   ├── Project_task_brief.pdf #project prompt
-│   ├── Stakeholder_matrix.xlsx
-│   └── TOR_Healthcare_Access_US_Counties.pdf
-├── scripts 
-│   ├── 1_data_cleaning
-│   ├── 2_first_EDA.ipynb
-│   ├── 3_sample_geo_visualization.ipynb
-│   ├── 4_2nd_EDA_linear_regression.ipynb
-│   ├── 5_clustering.ipynb
-│   └── 6_sample_time_series.ipynb
-└── visualization samples 
-    ├── 2_EDA
-    ├── 3_geo
-    ├── 4_linear_regression
-    ├── 5_clustering
-    ├── 6_time_series
-    └── Tableau_viz.pdf
+https://tree.nathanfriend.com/?s=(%27options!(%27fancyY~fullPathY~trailingSlash!true~rootDotY)~source!(%27source!%278*EmilSafarov_FAcK_CaseStudy.pdfJcase%20explaination8*LICENSE8*README.md8*data-*finalJinputdatasets-*notesJdata%20proKing%20notes-*proKed-0raw8*pZ_docs-*F%20AcK%20in%20U.S..twbxW%23tableau%20workbook-*PZ_task_brief.pdfJpZ%20promt-*Stakeholder_matrix.xlsx-0TOR_F_AcK_US_Counties.pdf8*scripts%20-*1_data_cleaning-*2_first_EDAB-*3_q_geo_QB-*4_2nd_EDAGB-VB-06_qXB80Q%20qs%207*2_EDA7*3_geo7*4G7V7*6X70Tableau_viz.pdf778%27)~version!%271%27)*%E2%94%9C9-8%E2%94%82W%200%E2%94%94978%20%20%20%208%5Cn9%E2%94%80%E2%94%80%20B.ipynbFHealthcareG_linear_regressionJ%20%23KcessQvisualizationV*5_clusteringW%C2%A0%C2%A0X_time_seriesY!falseZrojectqsample%01qZYXWVQKJGFB9870-*
