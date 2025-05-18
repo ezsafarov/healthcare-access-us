@@ -12,7 +12,7 @@ An interactive Tableau dashboard was created to visualize the key outcomes of th
 
 https://public.tableau.com/app/profile/emil.safarov/viz/HealthcareAccessinU_S_/HealthcareAccessinU_S?publish=yes
 
-## Tree of the repo
+## 🌳 Tree of the repo
 ```
 ├── EmilSafarov_HealthcareAccess_CaseStudy.pdf   # case explanation
 ├── LICENSE
