@@ -40,4 +40,5 @@ https://public.tableau.com/app/profile/emil.safarov/viz/HealthcareAccessinU_S_/H
     ├── 4_linear_regression
     ├── 5_clustering
     ├── 6_time_series
-    └── Tableau_viz.pdf```
+    └── Tableau_viz.pdf
+```
